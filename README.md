@@ -177,6 +177,9 @@ python tools/check_translations.py   # makes sure nothing is missing
 
 AlenPlayer is licensed under the **GNU General Public License v3.0** — see [`LICENSE`](LICENSE).
 This is required because the bundled libmpv is built with GPL components of mpv and FFmpeg.
+Licenses and source code of bundled components are listed in [`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md).
+
+What's new in each version: [`CHANGELOG.md`](CHANGELOG.md).
 
 ## 🙏 Credits
 

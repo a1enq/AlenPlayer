@@ -177,6 +177,9 @@ python tools/check_translations.py   # проверяет, что ничего �
 
 AlenPlayer распространяется под лицензией **GNU General Public License v3.0** — см. [`LICENSE`](LICENSE).
 Это обязательно: в комплекте идёт libmpv, собранная с GPL-компонентами mpv и FFmpeg.
+Лицензии и исходники сторонних компонентов перечислены в [`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md).
+
+Что нового в каждой версии: [`CHANGELOG.md`](CHANGELOG.md).
 
 ## 🙏 Благодарности
 
